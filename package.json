@@ -1,0 +1,28 @@
+{
+  "name": "rss-app",
+  "version": "1.0.0",
+  "description": "Reader for RSS with alert system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLongueira/rss-notification-custom.git"
+  },
+  "keywords": [
+    "rss",
+    "notifications",
+    "monitoring",
+    "smn"
+  ],
+  "author": "TLongueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLongueira/rss-notification-custom/issues"
+  },
+  "homepage": "https://github.com/TLongueira/rss-notification-custom#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
